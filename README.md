@@ -8,6 +8,8 @@
 
 - Playing with three.js to create and display animated 3D computer graphics
 
+- Be able to animate 2 objects
+
 -------------------------------------------
 
 Please visit the website:
