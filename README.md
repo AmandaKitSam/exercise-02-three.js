@@ -10,6 +10,7 @@
 
 -------------------------------------------
 
-Please visit the website: https://amandakitsam.github.io/exercise-three.js/
+Please visit the website:
+
 <br/>
 (Working Stage)
